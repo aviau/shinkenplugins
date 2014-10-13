@@ -9,7 +9,7 @@ Standards-Version: 3.9.6
 Package: python-shinkenplugins
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}
-Description: Shinken plugins wrapper library.
+Description: Shinken plugins wrapper library
  Library aimed to provide helpers around the creation of Shinken
  plugins, and in particular their inputs and outputs. Less code,
  less code duplication, less headache.
